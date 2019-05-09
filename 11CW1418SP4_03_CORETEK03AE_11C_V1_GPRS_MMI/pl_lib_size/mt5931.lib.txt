@@ -1,0 +1,21 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+       284          0          0          0        200   cmd_buf.obj
+       304          0          0          0        196   cnm_mem.obj
+       930          0          4          8       1044   gl_kal.obj
+       684          0          0          0       1236   gl_rftest.obj
+        24     140736          0          8         52   mt5931_firmware.obj
+      5230          9         48       6560       1844   nic.obj
+      6442        699          0          0       1348   nic_rx.obj
+      1686          0          0          0        540   nic_tx.obj
+       548        124        660          0        280   rlm_domain.obj
+      8706         67          1       2561       1352   wlan_lib.obj
+      3516        179          0          0       1520   wlan_oid.obj
+      1724         83          0         58        356   wlan_psscan.obj
+       568         20          0          0        192   wndrv_create.obj
+       232          0          0          0         64   wndrv_main.obj
+      2092         83          0       4016       1068   wndrv_misc.obj
+     11394       1219         24       4010       2056   wndrv_othermod_func.obj
+      4056        225        192          6       2708   wndrv_rftest_func.obj
+     48420     143444        929      17227      16056   TOTAL
+

@@ -1,0 +1,6 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+        24          0          0         12        104   AP_BtSS.obj
+        32          0          0          0        416   AP_CSCI_dynamic.obj
+        56          0          0         12        520   TOTAL
+

@@ -1,0 +1,7 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+     22176         36          0       1103       5748   Drvflash.obj
+     11748          8         11        200       3024   Drvflash_ext.obj
+     30500         68         11        200       5452   Drvflash_ldisk.obj
+     64424        112         22       1503      14224   TOTAL
+

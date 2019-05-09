@@ -1,0 +1,21 @@
+55	IMG_NONE	Added by ADD_APPLICATION_IMAGE	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+1	IMG_GLOBAL_OK	Global Image-Ok	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+2	IMG_GLOBAL_BACK	Global Image-Back	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+3	IMG_GLOBAL_YES	Global Image-Yes	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+4	IMG_GLOBAL_NO	Global Image-No	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+5	IMG_GLOBAL_OPTIONS	Global Image-Options	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+51	IMG_GLOBAL_CLEAR	Global Image-Clear	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\EmptyImage.bmp	0	1	APP name unknown	1	
+50	IMG_VICON	Status Image	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\checkbox\\CK_V.bmp	0	1	APP name unknown	1	
+41	IMG_CAL	Calendar Image	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\SubMenu\\Settings\\DateAndTime\\ST_CALEN.bmp	0	1	APP name unknown	1	
+46	IMG_GLOBAL_DEFAULT	default image	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\Default.bmp	0	1	APP name unknown	1	
+121	IMG_GLOBAL_SIM1	Global sim1 image for Gemini+	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\SIM\\SIM1.bmp	0	1	APP name unknown	1	
+122	IMG_GLOBAL_SIM2	Global sim2 image for Gemini+	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\SIM\\SIM2.bmp	0	1	APP name unknown	1	
+125	IMG_GLOBAL_TABBAR_SIM1	Global tabbar sim1 image for Gemini+	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\SIM\\TAB\\Tab_sim1.bmp	0	1	APP name unknown	1	
+126	IMG_GLOBAL_TABBAR_SIM2	Global tabbar sim2 image for Gemini+	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\SIM\\TAB\\Tab_sim2.bmp	0	1	APP name unknown	1	
+127	IMG_GLOBAL_TABBAR_SIM3	Global tabbar sim3 image for Gemini+	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\SIM\\TAB\\Tab_sim3.bmp	0	1	APP name unknown	1	
+128	IMG_GLOBAL_TABBAR_SIM4	Global tabbar sim4 image for Gemini+	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\UIElement\\SIM\\TAB\\Tab_sim4.bmp	0	1	APP name unknown	1	
+129	IMG_GLOBAL_TOOLBAR_VIDEO_CALL	Video call ToolBar icon	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\ToolBar\\TB_video_call.png	0	1	APP name unknown	1	
+130	IMG_GLOBAL_TOOLBAR_VIDEO_CALL_DISABLED	Video call ToolBar disabled icon	../../MMI/Resource/PopulateRes.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\ToolBar\\TB_video_call_disabled.png	0	1	APP name unknown	1	
+36668	IMG_ID_FMGR_ICON_FILE_TYPE_IMG	image icon	../Res_MMI/res_FileMgrService.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\FileManager\\FM_SIIMAGE.bmp	0	1	APP name unknown	1	
+36670	IMG_ID_FMGR_ICON_FILE_TYPE_AUD	audio icon	../Res_MMI/res_FileMgrService.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\FileManager\\FM_SIAUDIO.bmp	0	1	APP name unknown	1	
+36671	IMG_ID_FMGR_ICON_FILE_TYPE_VDO	video icon	../Res_MMI/res_FileMgrService.c	0	0	0	..\\..\\Customer\\Images\\FTE_SLIM240X320\\MainLCD\\FileManager\\FM_SIVIDEO.bmp	0	1	APP name unknown	1	

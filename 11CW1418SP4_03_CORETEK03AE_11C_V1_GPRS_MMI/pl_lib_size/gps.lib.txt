@@ -1,0 +1,16 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      3302         39          0        109       1837   agps_adaptor.obj
+       556        580          0          0        491   agps_setting.obj
+         0          0          0          0          0   epodownload.obj
+      3688         20          8       2056       1398   gps_adaptor.obj
+        16          0          0          0        312   gps_auth.obj
+      3620         96         26         77        867   gps_init.obj
+      2104        251          0         16        649   gps_inject_msg.obj
+       732         20          4        304        717   gps_main.obj
+      2104          0          0          4        815   gps_modem.obj
+      1244          0         44         54        555   gps_sm.obj
+       220          0          0          0        238   gps_uart.obj
+      1692          0          0          0        471   wap_cmmn_utils.obj
+     19278       1006         82       2620       8350   TOTAL
+

@@ -1,0 +1,5 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      4884        628          0        488       1028   mmi_dcc_interface.obj
+      4884        628          0        488       1028   TOTAL
+

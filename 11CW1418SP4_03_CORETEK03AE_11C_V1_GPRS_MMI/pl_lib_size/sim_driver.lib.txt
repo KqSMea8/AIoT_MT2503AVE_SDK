@@ -1,0 +1,13 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      1132          0          0         24        402   MT6302_SPI.obj
+      1312          0         44        206       1288   dcl_sim.obj
+      1200         73          0       5500       1560   icc_sim_common_mtk.obj
+      8044          6          0         44       1642   icc_switchControl0.obj
+     10016         10         43          4       2773   icc_switchControl1.obj
+      5366         80         36        192       3162   icc_switchControl2.obj
+      1020        152         60         20        634   icc_switchControl_al.obj
+      7040          6          0         20       1577   icc_switchControl_mtk_0.obj
+      7368         77         43          0       2872   icc_switchControl_mtk_1.obj
+     42498        404        226       6010      15910   TOTAL
+

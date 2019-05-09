@@ -1,0 +1,9 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+       666          0          0          0        727   xyssl_fs.obj
+      1084          0          0          4       1179   xyssl_interface.obj
+       188          0          0          0        248   xyssl_mem.obj
+       234          0          0          4        230   xyssl_soc.obj
+        60          0          0          0        293   xyssl_time.obj
+      2232          0          0          8       2677   TOTAL
+

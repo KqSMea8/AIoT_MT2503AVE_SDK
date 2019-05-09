@@ -1,0 +1,20 @@
+
+      Code    RO Data    RW Data    ZI Data      Debug   Object Name
+      7564         56          0        146        626   Atatest.obj
+      5476         82          1        237       2356   Bkss.obj
+      4736         44        132       1607       2086   BkssSrv.obj
+      2108        767          0        188       1043   aes.obj
+      2140        767          0        184       1044   aes_tiny.obj
+       536        193          0          0        148   base64.obj
+       188          0          0         44        349   ble_wechat_util.obj
+       928          0          0          0       1940   epb.obj
+      2494         40          0          0       1509   epb_MmBp.obj
+      2720        196          0         32       1606   iotlock.obj
+       708          0          0          0        370   linked_list.obj
+      7776        754          2        664       5564   lock_drv.obj
+      7568        770          8        127       2712   lock_gps.obj
+     13496       1108         46       2388       3222   lock_net.obj
+     21974       1683          0      18579       7458   lock_utils.obj
+       650        112          0          0        455   md5.obj
+     81062       6572        189      24196      32488   TOTAL
+

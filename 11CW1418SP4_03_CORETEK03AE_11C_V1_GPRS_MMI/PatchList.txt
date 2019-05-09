@@ -1,0 +1,30 @@
+#==============================================================================
+# CR list from MediaTek voluntary
+# --------------------------
+# The release maybe include
+#   1. Critical patch
+#   2. Build environment related enhancement
+#   3. The dependency patch of item 1 and item 2
+#==============================================================================
+Patch Type:  MTK Voluntary
+CR ID:       N/A
+Severity:    N/A
+eService ID: N/A
+Description: N/A
+Associated Files: 
+  blueangel\btcore\btstack\inc\btconfig.h
+  mtk_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\FULL\btadp.lib
+  MoDIS_VC9\MoDIS_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\FULL\btadp.lib
+  mtk_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\FULL\btprofiles.lib
+  MoDIS_VC9\MoDIS_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\FULL\btprofiles.lib
+  mtk_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\FULL\btstack.lib
+  MoDIS_VC9\MoDIS_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\FULL\btstack.lib
+  mtk_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\NONE\btadp.lib
+  MoDIS_VC9\MoDIS_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\NONE\btadp.lib
+  mtk_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\NONE\btprofiles.lib
+  MoDIS_VC9\MoDIS_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\NONE\btprofiles.lib
+  mtk_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\NONE\btstack.lib
+  MoDIS_VC9\MoDIS_lib\MT2502\S00\gprs\KAL_TRACE_OUTPUT\NONE\btstack.lib
+
+
+
